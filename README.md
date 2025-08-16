@@ -16,7 +16,7 @@
 - 💻 Skilled in **Python, C, Web Development**  
 - 🚀 Building projects like **CampusSetu & EduPath**  
 - 🌍 Love to **explore new ideas & challenges**  
-- 📬 Reach me at: **yourmail@example.com**  
+- 📬 Reach me at: **kunalkumar62007.com**  
 
 ---
 
@@ -33,17 +33,21 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal8571&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal8571&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
+<p align="center">
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Kunal8571/Kunal8571/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal8571/Kunal8571/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kunal8571/Kunal8571/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
